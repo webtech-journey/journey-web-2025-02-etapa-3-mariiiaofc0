@@ -1,0 +1,24 @@
+.section{
+    background-color: #884ab1;
+    padding: 20px;
+    margin: 40px;
+}
+
+.container{
+    margin: 30px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    background-color: aliceblue;
+}
+.evento{
+    
+    padding:    10px;
+    background-color: white;
+
+}
+
+h1{
+    text-align: center;
+}
